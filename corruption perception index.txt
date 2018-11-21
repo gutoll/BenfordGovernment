@@ -1,0 +1,14 @@
+2016 Rank	Country		2016 Score	2015 Score	2014 Score	2013 Score	2012 Score	Region
+5		Switzerland	86		86		86		85		86		Europe and Central Asia
+9		Canada		82		83		81		81		84		Americas
+10		United Kingdom	81		81		78		76		74		Europe and Central Asia
+13		Australia	79		79		80		81		85		Asia Pacific
+21		Uruguay		71		74		73		73		72		Americas
+23		France		69		70		69		71		71		Europe and Central Asia
+29		Portugal	62		64		63		62		63		Europe and Central Asia
+64		South Africa	45		44		44		42		43		Sub Saharan Africa
+79		Brazil		40		38		43		42		43		Americas
+79		India		40		38		38		36		36		Asia Pacific
+123		Mexico		30		31		35		34		34		Americas
+131		Russia		29		29		27		28		28		Europe and Central Asia
+

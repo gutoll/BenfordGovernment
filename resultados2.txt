@@ -1,0 +1,335 @@
+brasil
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 1.0534, p-value = 0.0845
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 1.1602, p-value = 0.1006
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 12.374, p-value = 0.1353
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 209.4, p-value = 1.055e-11
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+canada
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 8.5141, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 13.942, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 2151.2, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 31757, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+reino unido
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 11.02, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 12.034, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 923.55, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 1590, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+franca
+
+         K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 5.5798, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 7.0037, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 221.58, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 2737.6, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+suica
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 1.9423, p-value = 1e-04
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 2.8757, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 99.934, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 950.18, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+australia
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 8.4383, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 10.338, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 491.06, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 5266.1, p-value < 2.2e-16
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+africa do sul
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 1.1943, p-value = 0.0367
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 1.5993, p-value = 0.008
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 21.481, p-value = 0.005974
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 468.6, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+portugal
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 9.16, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 9.2023, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 1193.6, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 4512.5, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+mexico
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 2.1095, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 2.7666, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 34.419, p-value = 3.41e-05
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 415.87, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+uruguai
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 1.2221, p-value = 0.0319
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 1.2512, p-value = 0.0577
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 16.479, p-value = 0.03602
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 222.82, p-value = 1.847e-13
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+russia
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 7.0649, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 7.0649, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 917.53, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 5700.5, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+india
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 6.357, p-value < 2.2e-16
+
+
+        K-S Test for Benford Distribution
+
+data:  limitated_num
+D = 7.9426, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 290.74, p-value < 2.2e-16
+
+
+        Chi-Square Test for Benford Distribution
+
+data:  limitated_num
+chisq = 3230.3, p-value < 2.2e-16
+
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
